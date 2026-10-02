@@ -4,6 +4,5 @@ class ApiResponse{
         this.data = data
         this.messege =messege;
         this.success = statusCode<400;
-
     }
 }
